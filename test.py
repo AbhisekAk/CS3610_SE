@@ -1,1 +1,1 @@
-print("Hello")
+print("Hello done it in a safe way")
