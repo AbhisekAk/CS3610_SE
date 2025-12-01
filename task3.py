@@ -1,3 +1,6 @@
-from BuilderCustomerComponent.clientCustomer import run_demo
+# task3.py
 
-run_demo()
+from CompanyComposite.ClientCompany import runCompositeDemo
+
+if __name__ == "__main__":
+    runCompositeDemo()
